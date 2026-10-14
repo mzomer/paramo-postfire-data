@@ -1,0 +1,17 @@
+site,year_of_fire,survey_date,time_since_fire_y,place,location,cordillera,altitude_m,land_use,lat,lon,time_since_fire_numeric
+A07,2014,10-Apr-15,0.5,Reserva Ecológica El Ángel,"Outside REEA Buffer, SE",Western,3492,"Outside protected zones, but no sign of regular grazing",0.645972,-77.875561,0.5
+B01,2013,27-Mar-15,1.55,La Bretaña,La Bretaña,Eastern,3635,"Private Reserve, but with extensive grazing by cows",0.578371,-77.699756,1.55
+B02,2012,28-Mar-15,2.42,La Bretaña,La Bretaña,Eastern,3672,"Private Reserve, but with extensive grazing by cows",0.578426,-77.69805,2.42
+B03,2012,28-Mar-15,2.42,La Bretaña,La Bretaña,Eastern,3739,"Private Reserve, but with extensive grazing by cows",0.579703,-77.69323,2.42
+A05,2009,09-Apr-15,5.6,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3680,Reserve Buffer Zone with very low grazing intensity by cows,0.677872,-77.869628,5.6
+A13,2008,01-May-15,7,Reserva Ecológica El Ángel,"REEA, close to buffer,  SW",Western,3529,Regularly grazed by cows,0.70395,-78.002176,7
+A06,2007,09-Apr-15,8,Reserva Ecológica El Ángel,"REEA Buffer,  N",Western,3696,Reserve Buffer Zone with very low grazing intensity by cows,0.675459,-77.870982,8
+A09,2007,30-Apr-15,8,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3734,Reserve Buffer Zone with very low grazing intensity by cows,0.678384,-77.874628,8
+A11,2007,30-Apr-15,8,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3635,Reserve Buffer Zone with very low grazing intensity by cows,0.671306,-77.880216,8
+A15,2007,17-May-15,8,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3638,Reserve Buffer Zone with very low grazing intensity by cows,0.781983,-77.89551,8
+A10,2006,30-Apr-15,9,Reserva Ecológica El Ángel,"REEA Buffer,  N",Western,3667,Reserve Buffer Zone with very low grazing intensity by cows,0.672373,-77.878771,9
+A16,2006,17-May-15,9,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3565,Reserve Buffer Zone with very low grazing intensity by cows,0.779914,-77.895661,9
+A08,2005,30-Apr-15,10,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3823,Protected Reserve,0.681662,-77.877457,10
+A12,2005,01-May-15,10,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3674,Reserve Buffer Zone with very low grazing intensity by cows,0.671304,-77.868421,10
+A14,2000,16-May-15,15,Reserva Ecológica El Ángel,"REEA Buffer,  N",Western,3912,Reserve Buffer Zone with very low grazing intensity by cows,0.801583,-77.956029,15
+A02,N/A,07-Apr-15,>40,Reserva Ecológica El Ángel,"REEA Buffer,  SE",Western,3624,Reserve Buffer Zone with very low grazing intensity by cows,0.678923,-77.864378,40
