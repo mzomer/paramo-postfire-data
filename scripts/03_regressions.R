@@ -104,3 +104,5 @@ write_csv(par_lmer_results, here("outputs", "models", "par_lmer_results.csv"))
 #save 
 saveRDS(c(models, list(par_transmission_pct = model_par_lmer)),
         here("outputs", "models", "fitted_models.rds"))
+
+
